@@ -9,3 +9,7 @@ Answer: Data science could be applied to business. One example is when a busines
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the histories of two branches into a single branch, keeping the commit sequence intact. Rebasing rewrites the commit history by moving commits from the source branch to the target branch (results in a linear history).
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my familiarity with popular Python libraries like NumPy, Seaborn, and Matplotlib.
